@@ -1,4 +1,4 @@
-# cryptohopper Mac
+# Cryptohopper Mac
 
 <p align="center">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/3c/ec/843ceca4-3638-dde4-fe47-b667a319d493/Placeholder.mill/200x200bb-75.webp" width="200" alt="cryptohopper icon"/>
